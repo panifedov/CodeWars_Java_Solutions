@@ -4,6 +4,21 @@ Join [CodeWars](https://www.codewars.com/dashboard) and follow [me](https://www.
 
 ##### Important! : These solutions are for educational purposes only.
 
+
+
+
+---
+
+## 7kyu Katas
+
+<br>
+
+| Kata(s)                    | Solution(s) | Subject                         | CW Link |
+|----------------------------|-------------|---------------------------------|--|
+| [**Factorial**](7kyuKatas/Factorial.md) | 2           | `FUNDAMENTALS`                  | [link](https://www.codewars.com/kata/57a049e253ba33ac5e000212/train/java) |
+
+
+
 ---
 
 ## 8kyu Katas
@@ -18,4 +33,5 @@ Join [CodeWars](https://www.codewars.com/dashboard) and follow [me](https://www.
 | [**All Star Code Challenge**](8kyuKatas/All Star Code Challenge #18.md) | 1| `FUNDAMENTALS` `STTRING`        | [link](https://www.codewars.com/kata/5865918c6b569962950002a1/train/java) |
 | [**altERnaTIng cAsE <=> ALTerNAtiNG CaSe**](8kyuKatas/altERnaTIng cAsE <=> ALTerNAtiNG CaSe.md) | 1| `FUNDAMENTALS`                  | [link](https://www.codewars.com/kata/56efc695740d30f963000557/train/java) |
 | [**The Wide-Mouthed frog!**](8kyuKatas/The Wide-Mouthed frog!.md) | 1| `FUNDAMENTALS` `STRING` `LOGIC` | [link](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89/train/java) |
+| [**Convert to Binary**](8kyuKatas/Convert to Binary.md) | 1| `FUNDAMENTALS` `ALGORITHMS` `MATHEMATICS` | [link](https://www.codewars.com/kata/59fca81a5712f9fa4700159a/train/java) |
 
