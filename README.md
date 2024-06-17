@@ -16,7 +16,8 @@ Join [CodeWars](https://www.codewars.com/dashboard) and follow [me](https://www.
 | Kata(s)                    | Solution(s) | Subject         | CW Link |
 |----------------------------|-------------|-----------------|--|
 | [**Factorial**](7kyuKatas/Factorial.md) | 2           | `FUNDAMENTALS`  | [link](https://www.codewars.com/kata/57a049e253ba33ac5e000212/train/java) |
-| [**List Filtering**](7kyuKatas/List Filtering.md) | 1           | `FUNDAMENTALS` `LISTS` `FILTERING` `DATA STRUCTURES`  | [link](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/java) |
+| [**List Filtering**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/2f04c27bb0ac81d1469f0d458aba22570ef35991/7kyuKatas/List%20Filtering.md) | 1           | `FUNDAMENTALS` `LISTS` `FILTERING` `DATA STRUCTURES` | [link](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/java) |
+| [**Mumbling**](7kyuKatas/Mumbling.md) | 1           | `FUNDAMENTALS` `PUZZLES` `STRINGS`   | [link](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/java) |
 
 
 
