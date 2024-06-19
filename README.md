@@ -5,8 +5,6 @@ Join [CodeWars](https://www.codewars.com/dashboard) and follow [me](https://www.
 ##### Important! : These solutions are for educational purposes only.
 
 
-
-
 ---
 
 ## 6kyu Katas
