@@ -15,8 +15,8 @@ Join [CodeWars](https://www.codewars.com/dashboard) and follow [me](https://www.
 
 | Kata(s)                                                            | Solution(s) | Subject                   | CW Link |
 |--------------------------------------------------------------------|-------------|---------------------------|--|
-| [**Give me a Diamond**](6kyuKatas/Give me a Diamond.md) | 1           | `FUNDAMENTALS` `ASCII ART` `STRINGS` | [link](https://www.codewars.com/kata/5503013e34137eeeaa001648/train/java) |
-| [**Count characters in your string**](6kyuKatas/Count characters in your string.md) | 1           | `FUNDAMENTALS` `STRINGS`  | [link](https://www.codewars.com/kata/52efefcbcdf57161d4000091/train/java) |
+| [**Give me a Diamond**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/52d6d74bb017c507aca3909c6a94da3d0d63bd1a/6kyuKatas/Give%20me%20a%20Diamond.md) | 1           | `FUNDAMENTALS` `ASCII ART` `STRINGS` | [link](https://www.codewars.com/kata/5503013e34137eeeaa001648/train/java) |
+| [**Count characters in your string**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/52d6d74bb017c507aca3909c6a94da3d0d63bd1a/6kyuKatas/Count%20characters%20in%20your%20string.md) | 1           | `FUNDAMENTALS` `STRINGS`  | [link](https://www.codewars.com/kata/52efefcbcdf57161d4000091/train/java) |
 
 
 
@@ -50,5 +50,5 @@ Join [CodeWars](https://www.codewars.com/dashboard) and follow [me](https://www.
 | [**How many stairs will Suzuki climb in 20 years?**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/fd6ba4b7d43addb69672993249e8809634adf5a1/8kyuKatas/How%20many%20stairs%20will%20Suzuki%20climb%20in%2020%20years%3F.md) | 1           | `FUNDAMENTALS` `ARRAYS` | [link](https://www.codewars.com/kata/56fc55cd1f5a93d68a001d4e/train/java) |
 | [**Bin to Decimal**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/fd6ba4b7d43addb69672993249e8809634adf5a1/8kyuKatas/Bin%20to%20Decimal.md) | 1           | `FUNDAMENTALS` `BINARY` | [link](https://www.codewars.com/kata/57a5c31ce298a7e6b7000334/train/java) |
 | [**Sum of differences in array**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/fd6ba4b7d43addb69672993249e8809634adf5a1/8kyuKatas/Sum%20of%20differences%20in%20array.md) | 2           | `FUNDAMENTALS` `ARRAYS` | [link](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e/train/java) |
-| [**get character from ASCII Value**](8kyuKatas/get character from ASCII Value.md) | 2           | `FUNDAMENTALS`   | [link](https://www.codewars.com/kata/55ad04714f0b468e8200001c/train/java) |
+| [**get character from ASCII Value**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/52d6d74bb017c507aca3909c6a94da3d0d63bd1a/8kyuKatas/get%20character%20from%20ASCII%20Value.md) | 2           | `FUNDAMENTALS`   | [link](https://www.codewars.com/kata/55ad04714f0b468e8200001c/train/java) |
 
