@@ -28,6 +28,7 @@ Join [CodeWars](https://www.codewars.com/dashboard) and follow [me](https://www.
 | [**Factorial**](7kyuKatas/Factorial.md) | 2           | `FUNDAMENTALS`  | [link](https://www.codewars.com/kata/57a049e253ba33ac5e000212/train/java) |
 | [**List Filtering**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/2f04c27bb0ac81d1469f0d458aba22570ef35991/7kyuKatas/List%20Filtering.md) | 1           | `FUNDAMENTALS` `LISTS` `FILTERING` `DATA STRUCTURES` | [link](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/java) |
 | [**Mumbling**](7kyuKatas/Mumbling.md) | 1           | `FUNDAMENTALS` `PUZZLES` `STRINGS`   | [link](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/java) |
+| [**Form The Minimum**](7kyuKatas/Form The Minimum.md) | 1           | `FUNDAMENTALS`    | [link](https://www.codewars.com/kata/5ac6932b2f317b96980000ca/train/java) |
 
 
 
