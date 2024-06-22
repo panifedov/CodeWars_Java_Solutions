@@ -66,6 +66,24 @@ public class SolutionTest {
 
 ### Solution
 
+
+``` Java
+import java.util.stream.Collectors;
+import java.util.*;
+public class Minimum{
+
+	public static int minValue(int[] values){
+		 String s = Arrays.stream(values)
+                .sorted()
+                .distinct()
+                .mapToObj(Integer::toString)
+                .collect(Collectors.joining(""));
+        return Integer.valueOf(s);
+	}
+
+}
+```
+
 ``` Java
     import java.util.Arrays;
     import java.util.stream.Collectors;
