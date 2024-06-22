@@ -40,7 +40,7 @@ public class KataTest {
 
 ### Solution
 
-``` Java
+```Java
     public class Kata {
     
         public static int toBinary(int n) {

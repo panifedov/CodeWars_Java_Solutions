@@ -65,7 +65,7 @@ public class XbonacciTest {
 
 ### Solution
 
-``` Java
+```Java
 public class Xbonacci {
 
   public double[] tribonacci(double[] s, int n) {

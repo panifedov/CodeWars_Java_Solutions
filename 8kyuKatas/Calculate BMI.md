@@ -37,7 +37,7 @@ public class SolutionTest {
 
 ### Solution
 
-``` Java
+```Java
 public class Calculate {
   public static String bmi(double weight, double height) {
     double bmi = weight/(height*height);
@@ -62,7 +62,7 @@ public class Calculate {
 
 ### Solution 2
 
-``` Java
+```Java
 public class Calculate {
 public static String bmi(double weight, double height) {
 double bmi =weight/(height*height);

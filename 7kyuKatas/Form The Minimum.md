@@ -67,7 +67,7 @@ public class SolutionTest {
 ### Solution
 
 
-``` Java
+```Java
 import java.util.stream.Collectors;
 import java.util.*;
 public class Minimum{
@@ -84,7 +84,7 @@ public class Minimum{
 }
 ```
 
-``` Java
+```Java
     import java.util.Arrays;
     import java.util.stream.Collectors;
     

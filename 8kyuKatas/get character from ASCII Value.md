@@ -47,14 +47,14 @@ public class SolutionTest {
 
 ### Solution
 
-``` Java
+```Java
 public class Ascii {
   public static char getChar(int c) {
     return (char) c;
   }
 }
 ```
-``` Java
+```Java
 ublic class Ascii {
 public static char getChar(int c) {
 char[] ascii = {'#', '#', '#', '#', '#', '#', '#', '#', '#', '#',

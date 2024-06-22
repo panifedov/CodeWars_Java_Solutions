@@ -82,7 +82,7 @@ public class Tests {
 
 ### Solution
 
-``` Java
+```Java
 import java.util.Map;
 import java.util.HashMap;
 

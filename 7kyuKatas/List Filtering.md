@@ -37,7 +37,7 @@ In this kata you will create a function that takes a list of non-negative intege
 
 ### Solution
 
-``` Java
+```Java
 import java.util.List;
 import java.util.ArrayList;
 

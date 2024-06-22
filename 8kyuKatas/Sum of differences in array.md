@@ -53,7 +53,7 @@ public class SolutionTest {
 
 ### Solution
 
-``` Java
+```Java
 public class ZywOo {
 
 /*
@@ -86,7 +86,7 @@ public class ZywOo {
 }
 ```
 
-``` Java
+```Java
 import java.util.Arrays;
 
 public class ZywOo {

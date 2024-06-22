@@ -48,7 +48,7 @@ Zero alone is fine, don't worry about it. Poor guy anyway
 
 ### Solution
 
-``` Java
+```Java
 public class NoBoring {
     public static int noBoringZeros(int n) {
       String numberStr = Integer.toString(n);

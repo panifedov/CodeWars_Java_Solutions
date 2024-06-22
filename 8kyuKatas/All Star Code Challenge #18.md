@@ -48,7 +48,7 @@ In languages with no distinct character data type, the second argument will be a
 
 ### Solution
 
-``` Java
+```Java
 public class CodeWars {
   public static int strCount(String str, char letter) {
     int count = 0;

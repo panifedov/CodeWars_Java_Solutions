@@ -38,7 +38,7 @@ public class TwiceAsOldTest {
 
 ### Solution
 
-``` Java
+```Java
 public class TwiceAsOld{
 
   public static int TwiceAsOld(int dadYears, int sonYears){

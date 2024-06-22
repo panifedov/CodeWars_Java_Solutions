@@ -40,7 +40,7 @@ class SolutionTest {
 
 ### Solution
 
-``` Java
+```Java
    import java.util.ArrayList;
 
 public class Multiples {

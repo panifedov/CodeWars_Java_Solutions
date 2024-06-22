@@ -93,7 +93,7 @@ public class DiamondTest {
 
 ### Solution
 
-``` Java
+```Java
 class Diamond {
   public static String print(int n) {
 if (n < 0 || n % 2 == 0) {

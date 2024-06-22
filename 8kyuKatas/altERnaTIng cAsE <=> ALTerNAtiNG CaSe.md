@@ -59,7 +59,7 @@ As usual, your function/method should be pure, i.e. it should not mutate the ori
 
 ### Solution
 
-``` Java
+```Java
 public class StringUtils {
   
   public static String toAlternativeString(String string) {

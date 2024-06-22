@@ -43,7 +43,7 @@ https://en.wikipedia.org/wiki/Factorial
 
 ### Solution
 
-``` Java
+```Java
     public class Factorial {
     
         public static long factorial(int n) {

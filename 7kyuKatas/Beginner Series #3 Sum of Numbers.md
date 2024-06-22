@@ -51,7 +51,7 @@ public class SumTest1 {
 ### Solution
 
 
-``` Java
+```Java
   public class Sum
   {
      public int GetSum(int a, int b)

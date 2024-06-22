@@ -43,7 +43,7 @@ public class PipesExampleTests {
 
 ### Solution
 
-``` Java
+```Java
 public class Kata {
   public static int[] pipeFix(int[] numbers) {
         int min = numbers[0];

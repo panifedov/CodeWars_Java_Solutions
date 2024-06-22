@@ -45,7 +45,7 @@ The parameter of accum is a string which includes only letters from a..z and A..
 
 ### Solution
 
-``` Java
+```Java
 public class Accumul {
     
     public static String accum(String s) {

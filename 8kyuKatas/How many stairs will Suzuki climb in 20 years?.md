@@ -86,7 +86,7 @@ public class KataTests
 
 ### Solution
 
-``` Java
+```Java
 public class Kata
 {
     public static long stairsIn20(int[][] stairs)

@@ -55,7 +55,7 @@ public class RentalCarExampleTests {
 
 ### Solution
 
-``` Java
+```Java
 public class Kata {
   public static int rentalCarCost(int d) {
     int result = d * 40;
