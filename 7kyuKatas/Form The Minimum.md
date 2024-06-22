@@ -67,7 +67,28 @@ public class SolutionTest {
 ### Solution
 
 ``` Java
+import java.util.Arrays;
+import java.util.stream.Collectors;
 
+public class Minimum{
+
+	public static int minValue(int[] values){
+	  Arrays.sort(values);
+    
+    StringBuilder resultString = new StringBuilder();
+    for(int i = 0; i < values.length; i++){
+      if(i == 0 || values[i] != values[i - 1]){
+        resultString.append(values[i]);
+      }  
+    }
+    
+    int result = Integer.parseInt(resultString.toString());
+    
+    
+    return result;
+	}
+
+}
 ```
 
 [See on CodeWars.com](https://www.codewars.com/kata/5ac6932b2f317b96980000ca/train/java)
