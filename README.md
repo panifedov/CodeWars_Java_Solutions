@@ -16,7 +16,7 @@ Join [CodeWars](https://www.codewars.com/dashboard) and follow [me](https://www.
 | [**Give me a Diamond**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/52d6d74bb017c507aca3909c6a94da3d0d63bd1a/6kyuKatas/Give%20me%20a%20Diamond.md) | 1           | `FUNDAMENTALS` `ASCII ART` `STRINGS`            | [link](https://www.codewars.com/kata/5503013e34137eeeaa001648/train/java) |
 | [**Count characters in your string**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/52d6d74bb017c507aca3909c6a94da3d0d63bd1a/6kyuKatas/Count%20characters%20in%20your%20string.md) | 1           | `FUNDAMENTALS` `STRINGS`                        | [link](https://www.codewars.com/kata/52efefcbcdf57161d4000091/train/java) |
 | [**Tribonacci Sequence**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/3c19a639cd8f1a4f06f3a7b1f554329d5433fb06/6kyuKatas/Tribonacci%20Sequence.md) | 1           | `FUNDAMENTALS` `NUMBER THEORY` `ARRAYS` `LISTS` | [link](https://www.codewars.com/kata/556deca17c58da83c00002db/train/java) |
-| [**Sort the odd**]() | 1           | `FUNDAMENTALS` `SORTING`  `ARRAYS`   | [link](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/train/java) |
+| [**Sort the odd**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/abadc34ce0ddcd7c771ad626ad43ab226bc3956a/6kyuKatas/Sort%20the%20odd.md) | 1           | `FUNDAMENTALS` `SORTING`  `ARRAYS`   | [link](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/train/java) |
 
 
 
