@@ -24,13 +24,14 @@ Join [CodeWars](https://www.codewars.com/dashboard) and follow [me](https://www.
 
 <br>
 
-| Kata(s)      | Solution(s) | Subject         | CW Link |
-|------------------------------|-------------|-----------------|--|
-| [**Factorial**](7kyuKatas/Factorial.md)                | 2           | `FUNDAMENTALS`  | [link](https://www.codewars.com/kata/57a049e253ba33ac5e000212/train/java) |
+| Kata(s)      | Solution(s) | Subject        | CW Link |
+|------------------------------|-------------|----------------|--|
+| [**Factorial**](7kyuKatas/Factorial.md)                | 2           | `FUNDAMENTALS` | [link](https://www.codewars.com/kata/57a049e253ba33ac5e000212/train/java) |
 | [**List Filtering**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/2f04c27bb0ac81d1469f0d458aba22570ef35991/7kyuKatas/List%20Filtering.md) | 1           | `FUNDAMENTALS` `LISTS` `FILTERING` `DATA STRUCTURES` | [link](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/java) |
-| [**Mumbling**](7kyuKatas/Mumbling.md)                     | 1           | `FUNDAMENTALS` `PUZZLES` `STRINGS`   | [link](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/java) |
-| [**Form The Minimum**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/f73dd1a509e27405b8d382fe32c38ed2a28aca61/7kyuKatas/Form%20The%20Minimum.md) | 2           | `FUNDAMENTALS`    | [link](https://www.codewars.com/kata/5ac6932b2f317b96980000ca/train/java) |
-| [**Beginner Series #3 Sum of Numbers**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/f73dd1a509e27405b8d382fe32c38ed2a28aca61/7kyuKatas/Beginner%20Series%20%233%20Sum%20of%20Numbers.md)| 1           | `FUNDAMENTALS`  `ALGORITHMS`  | [link](https://www.codewars.com/kata/55f2b110f61eb01779000053/train/java) |
+| [**Mumbling**](7kyuKatas/Mumbling.md)                     | 1           | `FUNDAMENTALS` `PUZZLES` `STRINGS` | [link](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/java) |
+| [**Form The Minimum**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/f73dd1a509e27405b8d382fe32c38ed2a28aca61/7kyuKatas/Form%20The%20Minimum.md) | 2           | `FUNDAMENTALS` | [link](https://www.codewars.com/kata/5ac6932b2f317b96980000ca/train/java) |
+| [**Beginner Series #3 Sum of Numbers**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/f73dd1a509e27405b8d382fe32c38ed2a28aca61/7kyuKatas/Beginner%20Series%20%233%20Sum%20of%20Numbers.md)| 1           | `FUNDAMENTALS`  `ALGORITHMS` | [link](https://www.codewars.com/kata/55f2b110f61eb01779000053/train/java) |
+| [**Make a function that does arithmetic!**]()| 1           | `FUNDAMENTALS` | [link](https://www.codewars.com/kata/583f158ea20cfcbeb400000a/train/java) |
 
 
 
