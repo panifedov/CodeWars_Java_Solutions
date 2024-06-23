@@ -31,7 +31,7 @@ Join [CodeWars](https://www.codewars.com/dashboard) and follow [me](https://www.
 | [**Mumbling**](7kyuKatas/Mumbling.md)                     | 1           | `FUNDAMENTALS` `PUZZLES` `STRINGS` | [link](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/java) |
 | [**Form The Minimum**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/f73dd1a509e27405b8d382fe32c38ed2a28aca61/7kyuKatas/Form%20The%20Minimum.md) | 2           | `FUNDAMENTALS` | [link](https://www.codewars.com/kata/5ac6932b2f317b96980000ca/train/java) |
 | [**Beginner Series #3 Sum of Numbers**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/f73dd1a509e27405b8d382fe32c38ed2a28aca61/7kyuKatas/Beginner%20Series%20%233%20Sum%20of%20Numbers.md)| 1           | `FUNDAMENTALS`  `ALGORITHMS` | [link](https://www.codewars.com/kata/55f2b110f61eb01779000053/train/java) |
-| [**Make a function that does arithmetic!**]()| 1           | `FUNDAMENTALS` | [link](https://www.codewars.com/kata/583f158ea20cfcbeb400000a/train/java) |
+| [**Make a function that does arithmetic!**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/cc1c62645a4eb4e3db5c22341227c6bb5e43022b/7kyuKatas/Make%20a%20function%20that%20does%20arithmetic!.md)| 1           | `FUNDAMENTALS` | [link](https://www.codewars.com/kata/583f158ea20cfcbeb400000a/train/java) |
 
 
 

@@ -26,7 +26,7 @@ The four operators are "add", "subtract", "divide", "multiply".
 
 ### Given Code
 
-```Java
+``` Java
 Sample Tests
         1
 import org.junit.Test;
