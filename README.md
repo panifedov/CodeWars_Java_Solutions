@@ -32,7 +32,7 @@ Join [CodeWars](https://www.codewars.com/dashboard) and follow [me](https://www.
 | [**Form The Minimum**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/f73dd1a509e27405b8d382fe32c38ed2a28aca61/7kyuKatas/Form%20The%20Minimum.md) | 2           | `FUNDAMENTALS`                          | [link](https://www.codewars.com/kata/5ac6932b2f317b96980000ca/train/java) |
 | [**Beginner Series #3 Sum of Numbers**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/f73dd1a509e27405b8d382fe32c38ed2a28aca61/7kyuKatas/Beginner%20Series%20%233%20Sum%20of%20Numbers.md)| 1           | `FUNDAMENTALS`  `ALGORITHMS`            | [link](https://www.codewars.com/kata/55f2b110f61eb01779000053/train/java) |
 | [**Make a function that does arithmetic!**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/cc1c62645a4eb4e3db5c22341227c6bb5e43022b/7kyuKatas/Make%20a%20function%20that%20does%20arithmetic!.md)| 1           | `FUNDAMENTALS`            | [link](https://www.codewars.com/kata/583f158ea20cfcbeb400000a/train/java) |
-| [**Row Weights**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/cc1c62645a4eb4e3db5c22341227c6bb5e43022b/7kyuKatas/Make%20a%20function%20that%20does%20arithmetic!.md)| 1           | `FUNDAMENTALS` `ARRAYS`      | [link](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9/train/java) |
+| [**Row Weights**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/7f1b5344952f61e4981b7d7d9106e5dcd92afa57/7kyuKatas/Row%20Weights.md)| 1           | `FUNDAMENTALS` `ARRAYS`      | [link](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9/train/java) |
 
 
 
