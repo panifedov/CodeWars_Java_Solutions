@@ -59,4 +59,5 @@ Join [CodeWars](https://www.codewars.com/dashboard) and follow [me](https://www.
 | [**Find Multiples of a Number**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/aade9d0d2249c183ab356da2e22d3506f27b8ff1/8kyuKatas/Find%20Multiples%20of%20a%20Number.md) | 1           | `FUNDAMENTALS`  `ARRAYS` | [link](https://www.codewars.com/kata/58ca658cc0d6401f2700045f/train/java) |
 | [**Transportation on vacation**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/a2451723e9f0893c68b2f8d55b4821395972aa81/8kyuKatas/Transportation%20on%20vacation.md) | 1           | `FUNDAMENTALS`   | [link](https://www.codewars.com/kata/568d0dd208ee69389d000016/train/java) |
 | [**Grasshopper - Messi Goals**](https://github.com/panifedov/CodeWars_Java_Solutions/blob/b0e2c287a0f8032e08ad2e28d52fe19bc502eceb/8kyuKatas/Grasshopper%20-%20Messi%20Goals.md) | 1           | `FUNDAMENTALS`   | [link](https://www.codewars.com/kata/55ca77fa094a2af31f00002a/train/java) |
+| [**Find Nearest square number**]() | 2           | `FUNDAMENTALS` `MATHEMATICS`  | [link](https://www.codewars.com/kata/5a805d8cafa10f8b930005ba/train/java) |
 
